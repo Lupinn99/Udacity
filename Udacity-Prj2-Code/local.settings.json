@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "CfDJ8KvJ6DmYyMJCgkPKMHi9yggxobSNL+EiBudqjTbkN08MV8FPGx7WqKyJXi1vK5/3O48YnxQvGjJtBiH2gbzh8qUxrA2On+1JRf1xQeWwdKwATocSwT1CMT9SN2gtzXs0ZQ==",
+    "AzureWebJobs.HttpTrigger1.Disabled": "true"
+  },
+  "ConnectionStrings": {},
+  "SendGridAPI": "EiBudqjTbkN08MV8FPGx7WqKyJXi1vK5", 
+  "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=prj2sacc;AccountKey=Hu/SQLql2YVDLsLmEK0k6mRDoZEIn+EehJn/0ygBaBcmdbCLZWR9/0ACmRi4czBsOFmdkujn2EL9+AStThr3Mg==;EndpointSuffix=core.windows.net"
+}
